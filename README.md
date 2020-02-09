@@ -4,3 +4,4 @@ This repository contains some projects that I have worked in my Data Science jou
 
 ## Projects
 - ### Data Analysis
+- [EDA: Africa Economic, Banking and Systemic Crisis]: Exploratory analysis of economic and financial crises in 13 African Countries (1860 to 2014) using Pandas and Seaborn.
